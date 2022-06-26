@@ -1,0 +1,1 @@
+O executável está dentro da pasta -  build > exe.win-amd64-3.10 > motoboy
